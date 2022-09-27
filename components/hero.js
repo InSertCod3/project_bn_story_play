@@ -12,7 +12,7 @@ export default function Hero() {
               Story Play. Putting a twist on your invites!
             </h1>
             <p  className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              We make it easy to make invites that gives everyone a <span className="text-italic">(tiny--<span className="text-bold">OR BIG</span>)</span> smile!
+              We make it easy to make invites that gives everyone a <span className="italic">(tiny--<span className="font-bold">OR BIG</span>)</span> smile!
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
