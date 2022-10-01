@@ -35,12 +35,12 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "How can I send my invite?",
+    answer: "You can send via: Email, SMS, Whatsapp, Messenger, and various other messaging platform.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Can I send it to multiple people!",
+    answer: "Yes, absolutely! You can send it to up-to 100 People",
   },
   {
     question: "What is your refund policy? ",
@@ -50,6 +50,6 @@ const faqdata = [
   {
     question: "Do you offer technical support? ",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Yes, we offer technical support you can start a text message and will get back to you!",
   },
 ];

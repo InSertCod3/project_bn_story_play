@@ -5,11 +5,11 @@ import Container from "./container";
 
 export default function Footer() {
   const navigation = [
-    "Product",
+    "Home",
     "Features",
     "Pricing",
-    "Company",
-    "Blog",
+    // "Company",
+    // "Blog",
   ];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
@@ -121,15 +121,8 @@ export default function Footer() {
             href="https://web3templates.com/"
             target="_blank"
             rel="noopener">
-            Web3Templates.
+            StoryPlay.
           </a>{" "}
-          Illustrations from{" "}
-          <a
-            href="https://www.glazestock.com/"
-            target="_blank"
-            rel="noopener ">
-            Glazestock
-          </a>
         </div>
       </Container>
       {/* Do not remove this */}

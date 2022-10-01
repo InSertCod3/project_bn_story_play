@@ -34,6 +34,14 @@ export default function Home() {
           content="Nextly is a free landing page template built with next.js & Tailwind CSS"
         />
         <link rel="icon" href="/favicon.ico" />
+        <script src="//code.tidio.co/jaztimqqiofy0oq0zyefevcukmoxclzf.js" async></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/jquery"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery.terminal/js/jquery.terminal.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery.terminal/js/xml_formatting.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/jquery.terminal/css/jquery.terminal.min.css" rel="stylesheet"/>
+        <script src="https://cdn.jsdelivr.net/combine/npm/js-polyfills/keyboard.js,gh/jcubic/static/js/wcwidth.js"></script>
+
       </Head>
 
       <Navbar />
@@ -69,7 +77,7 @@ export default function Home() {
       <Faq />
       <Cta />
       <Footer />
-      <PopupWidget />
+      {/* <PopupWidget /> */}
     </>
   );
 }

@@ -46,15 +46,7 @@ export default function Hero() {
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
           <div className="">
-            <Image
-              src={heroImg}
-              width="616"
-              height="617"
-              alt="Hero Illustration"
-              layout="intrinsic"
-              loading="eager"
-              placeholder="blur"
-            />
+          <div id="term"></div>
           </div>
         </div>
       </Container>
