@@ -45,9 +45,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
-          <div className="">
-          <div id="term"></div>
-          </div>
+          <iframe src="/example" height="100%" width="100%" title="Iframe Example"></iframe>
         </div>
       </Container>
       <Container>
